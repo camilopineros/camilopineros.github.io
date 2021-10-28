@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:admin="http://webns.net/mvcb/">
+
+<rdf:Description rdf:about="https://link.springer.com/chapter/10.1007/978-3-030-14799-0_29">
+	<dc:title>Adaptation and Recovery Stages for Case-Based Reasoning Systems Using Bayesian Estimation and Density Estimation with Nearest Neighbors</dc:title>
+	<dc:description>Artículo creado por Camilo Piñeros</dc:description>
+	<dc:subject>
+		<rdf:Bag>
+			<rdf:li>Case-based reasoning</rdf:li>
+			<rdf:li>Classification</rdf:li>
+			<rdf:li>Probability</rdf:li>
+			<rdf:li>Bayes</rdf:li>
+			<rdf:li>Parametric </rdf:li>
+		</rdf:Bag>
+	</dc:subject>
+	<dc:language>en</dc:language>
+	<dc:creator dc:source="https://orcid.org/my-orcid?orcid=0000-0001-5925-9736" rdfs:Literal="Camilo Andrés Piñeros Rodríguez" />
+	<dc:publisher dc:source="https://link.springer.com/" rdfs:Literal="Springer" />
+	<dc:license dc:source="" />
+	<admin:generatorAgent rdf:resource="http://www.webposible.com/utilidades/dublincore-metadata-gen/" />
+</rdf:Description>
+</rdf:RDF>
