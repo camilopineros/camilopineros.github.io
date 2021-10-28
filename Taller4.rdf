@@ -22,4 +22,73 @@
 	<dc:license dc:source="" />
 	<admin:generatorAgent rdf:resource="http://www.webposible.com/utilidades/dublincore-metadata-gen/" />
 </rdf:Description>
+<rdf:Description rdf:about="https://link.springer.com/chapter/10.1007/978-3-319-78723-7_3">
+	<dc:title>Case-Based Reasoning Systems for Medical Applications with Improved Adaptation and Recovery Stages</dc:title>
+	<dc:description>Artículo creado por Camilo Piñeros</dc:description>
+	<dc:subject>
+		<rdf:Bag>
+			<rdf:li>Case-based reasoning</rdf:li>
+			<rdf:li>Preprocessing</rdf:li>
+			<rdf:li>Cascade classification</rdf:li>
+			<rdf:li>Probability</rdf:li>
+		</rdf:Bag>
+	</dc:subject>
+	<dc:language>en</dc:language>
+	<dc:creator dc:source="https://orcid.org/my-orcid?orcid=0000-0001-5925-9736" rdfs:Literal="Camilo Andrés Piñeros Rodríguez" />
+	<dc:publisher dc:source="https://link.springer.com/" rdfs:Literal="Springer" />
+	<dc:license dc:source="" />
+	<admin:generatorAgent rdf:resource="http://www.webposible.com/utilidades/dublincore-metadata-gen/" />
+</rdf:Description>
+<rdf:Description rdf:about="https://www.proquest.com/openview/6dde66fd271caeda2a6300b5aa2674ab">
+	<dc:title>Analytic study on the performance of multi- classification approaches in case-based reasoning systems: Medical data exploration</dc:title>
+	<dc:description>Artículo publicado por Camilo Piñeros</dc:description>
+	<dc:subject>
+		<rdf:Bag>
+			<rdf:li>Case-based reasoning</rdf:li>
+			<rdf:li>classifiers fusion</rdf:li>
+			<rdf:li>heart disease</rdf:li>
+			<rdf:li>dermatology disease</rdf:li>
+		</rdf:Bag>
+	</dc:subject>
+	<dc:language>en</dc:language>
+	<dc:creator dc:source="https://orcid.org/my-orcid?orcid=0000-0001-5925-9736" rdfs:Literal="Camilo Andrés Piñeros Rodríguez" />
+	<dc:publisher dc:source="https://www.proquest.com/" rdfs:Literal="Proquest" />
+	<dc:license dc:source="" />
+	<admin:generatorAgent rdf:resource="http://www.webposible.com/utilidades/dublincore-metadata-gen/" />
+</rdf:Description>
+<rdf:Description rdf:about="http://www.unicauca.edu.co/">
+	<dc:title>Universidad del Cauca</dc:title>
+	<dc:description>Afiliación institucional de Camilo Piñeros
+</dc:description>
+	<dc:subject>
+		<rdf:Bag>
+			<rdf:li>Afiliación Institucional</rdf:li>
+		</rdf:Bag>
+	</dc:subject>
+	<dc:creator dc:source="https://orcid.org/my-orcid?orcid=0000-0001-5925-9736" rdfs:Literal="Camilo Andrés Piñeros Rodríguez" />
+	<admin:generatorAgent rdf:resource="http://www.webposible.com/utilidades/dublincore-metadata-gen/" />
+</rdf:Description>
+<rdf:Description rdf:about="https://camilopineros.github.io/">
+	<dc:title>Página en Github</dc:title>
+	<dc:description>Página creada por Camilo Piñeros</dc:description>
+	<dc:subject>
+		<rdf:Bag>
+			<rdf:li>Github</rdf:li>
+			<rdf:li>Webpage</rdf:li>
+		</rdf:Bag>
+	</dc:subject>
+	<dc:language>en</dc:language>
+	<dc:creator dc:source="https://orcid.org/my-orcid?orcid=0000-0001-5925-9736" rdfs:Literal="Camilo Andrés Piñeros Rodríguez" />
+	<admin:generatorAgent rdf:resource="http://www.webposible.com/utilidades/dublincore-metadata-gen/" />
+</rdf:Description>
+<rdf:Description rdf:about="https://www.amazon.com/Leader-Who-Had-No-Title/dp/1439109133">
+	<dc:title>The Leader Who Had No Title: A Modern Fable on Real Success in Business and in Life</dc:title>
+	<dc:description>Camilo Piñeros lee este libro</dc:description>
+	<dc:language>en</dc:language>
+	<dc:creator dc:source="https://www.robinsharma.com/" rdfs:Literal="Robin Sharma" />
+	<dc:relation dc:source="https://orcid.org/my-orcid?orcid=0000-0001-5925-9736" rdfs:Literal="Camilo Piñeros" />
+	<dc:relation dc:source="" />
+	<admin:generatorAgent rdf:resource="http://www.webposible.com/utilidades/dublincore-metadata-gen/" />
+</rdf:Description>
 </rdf:RDF>
+
