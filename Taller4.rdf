@@ -59,7 +59,7 @@
 <rdf:Description rdf:about="http://www.unicauca.edu.co/">
 	<dc:title>Universidad del Cauca</dc:title>
 	<dc:description>Afiliación institucional de Camilo Piñeros
-</dc:description>
+    </dc:description>
 	<dc:subject>
 		<rdf:Bag>
 			<rdf:li>Afiliación Institucional</rdf:li>
@@ -90,5 +90,16 @@
 	<dc:relation dc:source="" />
 	<admin:generatorAgent rdf:resource="http://www.webposible.com/utilidades/dublincore-metadata-gen/" />
 </rdf:Description>
+<rdf:Description rdf:about="http://univirtual.unicauca.edu.co/moodle/course/view.php?id=403">
+	<dc:title>Curso Web Semántica</dc:title>
+	<dc:description>Camilo cursa Web Semántica </dc:description>
+	<dc:subject>
+		<rdf:Bag>
+			<rdf:li>Web Semántica</rdf:li>
+		</rdf:Bag>
+	</dc:subject>
+	<dc:language>es</dc:language>
+	<dc:creator dc:source="https://orcid.org/my-orcid?orcid=0000-0001-5925-9736" rdfs:Literal="Camilo Andrés Piñeros Rodríguez" />
+	<admin:generatorAgent rdf:resource="http://www.webposible.com/utilidades/dublincore-metadata-gen/" />
+</rdf:Description>
 </rdf:RDF>
-
